@@ -4695,7 +4695,7 @@ body .search-bar button {
 .rs-services.style10 .services-item .services-icon img {
   max-width: unset;
   width: 60px;
-  height: 60px;
+  height: auto;
 }
 .rs-services.style10 .services-item .services-text {
   padding: 0px 0px 0px 30px;
